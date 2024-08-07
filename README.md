@@ -55,7 +55,14 @@ The project involves developing an interactive multiple-choice quiz using gestur
 2. **Install Dependencies**
 - Make sure you have Python 3.6 or higher installed on your system.
 - Install the required libraries using pip :
-  `pip install opencv-python-headless cvzone pygame pyttsx3`
+  - **For OpenCV :**
+  `pip install opencv-python`
+- **For cvzone :**
+  `pip install cvzone`
+- **For pygame :**
+  `pip install pygame`
+- **For pyttsx3 :**
+  `pip install pyttsx3`
 
 
 3. **Prepare the Data**
