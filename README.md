@@ -3,13 +3,17 @@
 ## 🎯 Project Objective
 
 The project involves developing an interactive multiple-choice quiz using gesture detection. The application allows users to answer quiz questions by selecting answers through gestures captured by a camera. Results are displayed in real-time with sound effects for each correct or incorrect answer. A timer is integrated for each question, adding a time challenge, and a "skip" function is available to move to the next question.
-
 ## ⚙️ Technologies Used
+
+- **Python**: The programming language used for developing the project. 🐍
+
+### Libraries
 
 - **OpenCV**: Used for video capture and gesture detection. 🎥
 - **Cvzone**: Library for facilitating graphical element manipulation on the image. 🖼️
 - **Pygame**: Used for sound effects associated with correct and incorrect answers. 🔊
 - **Pyttsx3**: Text-to-speech library for reading questions and choices aloud. 🗣️
+
 
 ## 🚀 How the Project Works
 
@@ -43,3 +47,11 @@ The project involves developing an interactive multiple-choice quiz using gestur
 7. **End of Quiz**:
    - Calculate and display the final score. 🏆
    - Announce the end of the quiz. 🎉
+## 🚀 How to Deploy the Project
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/AmalGhozzi123/Interactive-Quiz-Game.git
+
+## 🧩 Additional Information
+Feel free to modify and extend this project to suit your needs. If you encounter any issues or need further assistance, you can contact me at amalghozzi@outlook.com.
